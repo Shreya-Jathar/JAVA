@@ -1,0 +1,18 @@
+The random integers are: 
+I1 = 48; I2 = 5; I3 = 41
+The random doubles are: 
+D1 = 7.51; D2 = 43.29
+
+Calling Calculate function of class CalculateSum:
+48 + 5 = 53
+48 + 5 + 41 = 94
+7.51 + 43.29 = 50.80
+
+Calling Calculate function of class CalculateDifference:
+48 - 5 = 43
+7.51 - 43.29 = -35.78
+
+Using Dynamic Method Dispatch:
+5 + 41 = 46
+7.51 - 43.29 = -35.78
+48 + 5 + 41 = 94
